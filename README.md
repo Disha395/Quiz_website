@@ -1,2 +1,2 @@
 # Quiz_website
-A simple coding quiz challenege website using html, css and javascript.
+A simple coding quiz challenge website using html, css and javascript.
